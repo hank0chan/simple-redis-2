@@ -1,0 +1,1070 @@
+14:17:27.853 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:17:34.324 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:17:38.550 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:17:41.497 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:17:45.379 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:17:50.904 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:17:55.903 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:17:59.465 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:43.087 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:43.411 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:43.488 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:43.563 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:43.663 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:43.754 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:43.828 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:43.881 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:43.944 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:44.018 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:44.085 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:44.164 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:44.233 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:44.294 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:44.351 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:44.400 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:44.454 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:44.516 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:44.567 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:44.630 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:44.691 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:44.750 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:44.801 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:44.858 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:44.908 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:44.959 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:45.012 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:45.071 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:45.127 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:45.190 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:45.248 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:45.302 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:45.354 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:45.404 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:45.459 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:45.509 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:45.559 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:45.607 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:45.663 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:45.714 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:45.767 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:45.822 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:45.875 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:45.931 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:45.982 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:46.038 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:46.086 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:46.138 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:46.210 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:46.264 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:46.316 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:46.370 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:46.439 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:46.499 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:46.604 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:46.651 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:46.699 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:46.750 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:46.800 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:46.852 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:46.903 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:46.953 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:47.008 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:47.059 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:47.117 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:47.167 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:47.223 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:47.274 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:47.326 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:47.389 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:47.448 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:47.501 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:47.565 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:47.614 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:47.665 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:47.714 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:47.763 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:47.814 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:47.863 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:47.915 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:47.964 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:48.017 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:48.066 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:48.116 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:48.184 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:48.243 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:48.298 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:48.357 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:48.407 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:48.458 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:48.513 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:48.562 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:48.613 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:48.665 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:48.715 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:48.770 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:48.843 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:48.921 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:48.995 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:49.052 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:49.105 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:49.159 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:49.216 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:49.268 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:49.320 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:49.371 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:49.427 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:49.475 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:49.528 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:49.578 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:49.636 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:49.685 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:49.742 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:49.793 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:49.843 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:49.891 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:49.945 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:49.992 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:50.044 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:50.097 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:50.158 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:50.208 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:50.263 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:50.315 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:50.372 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:50.425 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:50.480 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:50.527 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:50.584 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:50.636 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:50.691 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:50.762 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:50.814 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:50.868 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:50.919 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:50.974 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:51.031 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:51.095 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:51.154 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:51.155 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:51.295 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:51.347 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:51.395 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:51.441 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:51.491 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:51.544 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:51.605 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:51.661 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:51.709 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:51.764 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:51.812 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:51.863 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:51.917 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:51.968 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:52.026 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:52.081 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:52.148 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:52.205 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:52.256 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:52.307 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:52.359 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:52.410 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:52.463 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:52.513 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:52.566 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:52.616 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:52.672 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:52.725 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:52.778 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:52.829 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:52.882 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:52.929 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:52.978 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:53.025 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:53.080 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:53.126 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:53.184 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:53.237 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:53.290 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:53.347 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:53.400 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:53.474 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:53.531 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:53.587 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:53.636 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:53.696 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:53.748 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:53.802 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:53.861 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:53.914 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:53.970 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:54.020 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:54.075 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:54.132 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:54.185 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:54.235 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:54.282 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:54.331 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:18:54.392 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:18:54.452 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:36.823 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:37.055 [main] INFO  SWIFT - æ¶ˆè€—ï¼š410ms
+14:21:37.057 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:37.175 [main] INFO  SWIFT - æ¶ˆè€—ï¼š119ms
+14:21:37.302 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:37.303 [main] INFO  SWIFT - æ¶ˆè€—ï¼š127ms
+14:21:37.364 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:37.365 [main] INFO  SWIFT - æ¶ˆè€—ï¼š62ms
+14:21:37.422 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:37.423 [main] INFO  SWIFT - æ¶ˆè€—ï¼š58ms
+14:21:37.492 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:37.493 [main] INFO  SWIFT - æ¶ˆè€—ï¼š70ms
+14:21:37.564 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:37.564 [main] INFO  SWIFT - æ¶ˆè€—ï¼š71ms
+14:21:37.622 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:37.622 [main] INFO  SWIFT - æ¶ˆè€—ï¼š58ms
+14:21:37.673 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:37.673 [main] INFO  SWIFT - æ¶ˆè€—ï¼š50ms
+14:21:37.736 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:37.736 [main] INFO  SWIFT - æ¶ˆè€—ï¼š63ms
+14:21:37.803 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:37.803 [main] INFO  SWIFT - æ¶ˆè€—ï¼š67ms
+14:21:37.859 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:37.860 [main] INFO  SWIFT - æ¶ˆè€—ï¼š57ms
+14:21:37.909 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:37.909 [main] INFO  SWIFT - æ¶ˆè€—ï¼š49ms
+14:21:37.965 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:37.966 [main] INFO  SWIFT - æ¶ˆè€—ï¼š56ms
+14:21:38.024 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:38.024 [main] INFO  SWIFT - æ¶ˆè€—ï¼š58ms
+14:21:38.081 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:38.081 [main] INFO  SWIFT - æ¶ˆè€—ï¼š56ms
+14:21:38.156 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:38.156 [main] INFO  SWIFT - æ¶ˆè€—ï¼š75ms
+14:21:38.210 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:38.210 [main] INFO  SWIFT - æ¶ˆè€—ï¼š54ms
+14:21:38.261 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:38.261 [main] INFO  SWIFT - æ¶ˆè€—ï¼š51ms
+14:21:38.312 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:38.313 [main] INFO  SWIFT - æ¶ˆè€—ï¼š51ms
+14:21:38.365 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:38.365 [main] INFO  SWIFT - æ¶ˆè€—ï¼š52ms
+14:21:38.417 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:38.418 [main] INFO  SWIFT - æ¶ˆè€—ï¼š53ms
+14:21:38.473 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:38.474 [main] INFO  SWIFT - æ¶ˆè€—ï¼š56ms
+14:21:38.536 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:38.536 [main] INFO  SWIFT - æ¶ˆè€—ï¼š62ms
+14:21:38.595 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:38.595 [main] INFO  SWIFT - æ¶ˆè€—ï¼š59ms
+14:21:38.653 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:38.654 [main] INFO  SWIFT - æ¶ˆè€—ï¼š58ms
+14:21:38.734 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:38.734 [main] INFO  SWIFT - æ¶ˆè€—ï¼š80ms
+14:21:38.791 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:38.791 [main] INFO  SWIFT - æ¶ˆè€—ï¼š57ms
+14:21:38.852 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:38.852 [main] INFO  SWIFT - æ¶ˆè€—ï¼š61ms
+14:21:38.909 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:38.909 [main] INFO  SWIFT - æ¶ˆè€—ï¼š56ms
+14:21:38.962 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:38.963 [main] INFO  SWIFT - æ¶ˆè€—ï¼š54ms
+14:21:39.014 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:39.014 [main] INFO  SWIFT - æ¶ˆè€—ï¼š51ms
+14:21:39.073 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:39.073 [main] INFO  SWIFT - æ¶ˆè€—ï¼š59ms
+14:21:39.133 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:39.133 [main] INFO  SWIFT - æ¶ˆè€—ï¼š60ms
+14:21:39.186 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:39.187 [main] INFO  SWIFT - æ¶ˆè€—ï¼š54ms
+14:21:39.252 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:39.253 [main] INFO  SWIFT - æ¶ˆè€—ï¼š66ms
+14:21:39.308 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:39.308 [main] INFO  SWIFT - æ¶ˆè€—ï¼š55ms
+14:21:39.358 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:39.358 [main] INFO  SWIFT - æ¶ˆè€—ï¼š50ms
+14:21:39.408 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:39.408 [main] INFO  SWIFT - æ¶ˆè€—ï¼š50ms
+14:21:39.466 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:39.467 [main] INFO  SWIFT - æ¶ˆè€—ï¼š59ms
+14:21:39.517 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:39.517 [main] INFO  SWIFT - æ¶ˆè€—ï¼š50ms
+14:21:39.565 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:39.565 [main] INFO  SWIFT - æ¶ˆè€—ï¼š48ms
+14:21:39.617 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:39.617 [main] INFO  SWIFT - æ¶ˆè€—ï¼š52ms
+14:21:39.672 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:39.673 [main] INFO  SWIFT - æ¶ˆè€—ï¼š56ms
+14:21:39.730 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:39.731 [main] INFO  SWIFT - æ¶ˆè€—ï¼š58ms
+14:21:39.783 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:39.784 [main] INFO  SWIFT - æ¶ˆè€—ï¼š53ms
+14:21:39.845 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:39.846 [main] INFO  SWIFT - æ¶ˆè€—ï¼š62ms
+14:21:39.894 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:39.894 [main] INFO  SWIFT - æ¶ˆè€—ï¼š48ms
+14:21:39.947 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:39.947 [main] INFO  SWIFT - æ¶ˆè€—ï¼š53ms
+14:21:39.999 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:39.999 [main] INFO  SWIFT - æ¶ˆè€—ï¼š52ms
+14:21:40.055 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:40.055 [main] INFO  SWIFT - æ¶ˆè€—ï¼š56ms
+14:21:40.104 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:40.104 [main] INFO  SWIFT - æ¶ˆè€—ï¼š49ms
+14:21:40.155 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:40.155 [main] INFO  SWIFT - æ¶ˆè€—ï¼š51ms
+14:21:40.214 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:40.214 [main] INFO  SWIFT - æ¶ˆè€—ï¼š59ms
+14:21:40.265 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:40.265 [main] INFO  SWIFT - æ¶ˆè€—ï¼š51ms
+14:21:40.316 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:40.317 [main] INFO  SWIFT - æ¶ˆè€—ï¼š52ms
+14:21:40.374 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:40.375 [main] INFO  SWIFT - æ¶ˆè€—ï¼š58ms
+14:21:40.431 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:40.432 [main] INFO  SWIFT - æ¶ˆè€—ï¼š56ms
+14:21:40.483 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:40.483 [main] INFO  SWIFT - æ¶ˆè€—ï¼š51ms
+14:21:40.533 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:40.533 [main] INFO  SWIFT - æ¶ˆè€—ï¼š50ms
+14:21:40.589 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:40.590 [main] INFO  SWIFT - æ¶ˆè€—ï¼š56ms
+14:21:40.640 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:40.640 [main] INFO  SWIFT - æ¶ˆè€—ï¼š50ms
+14:21:40.694 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:40.694 [main] INFO  SWIFT - æ¶ˆè€—ï¼š54ms
+14:21:40.756 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:40.756 [main] INFO  SWIFT - æ¶ˆè€—ï¼š62ms
+14:21:40.814 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:40.814 [main] INFO  SWIFT - æ¶ˆè€—ï¼š58ms
+14:21:40.877 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:40.877 [main] INFO  SWIFT - æ¶ˆè€—ï¼š63ms
+14:21:40.936 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:40.937 [main] INFO  SWIFT - æ¶ˆè€—ï¼š59ms
+14:21:40.986 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:40.987 [main] INFO  SWIFT - æ¶ˆè€—ï¼š50ms
+14:21:41.036 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:41.036 [main] INFO  SWIFT - æ¶ˆè€—ï¼š49ms
+14:21:41.085 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:41.085 [main] INFO  SWIFT - æ¶ˆè€—ï¼š49ms
+14:21:41.138 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:41.138 [main] INFO  SWIFT - æ¶ˆè€—ï¼š53ms
+14:21:41.186 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:41.186 [main] INFO  SWIFT - æ¶ˆè€—ï¼š47ms
+14:21:41.241 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:41.241 [main] INFO  SWIFT - æ¶ˆè€—ï¼š55ms
+14:21:41.289 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:41.289 [main] INFO  SWIFT - æ¶ˆè€—ï¼š48ms
+14:21:41.340 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:41.340 [main] INFO  SWIFT - æ¶ˆè€—ï¼š51ms
+14:21:41.388 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:41.388 [main] INFO  SWIFT - æ¶ˆè€—ï¼š48ms
+14:21:41.436 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:41.437 [main] INFO  SWIFT - æ¶ˆè€—ï¼š49ms
+14:21:41.491 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:41.492 [main] INFO  SWIFT - æ¶ˆè€—ï¼š54ms
+14:21:41.547 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:41.547 [main] INFO  SWIFT - æ¶ˆè€—ï¼š55ms
+14:21:41.598 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:41.598 [main] INFO  SWIFT - æ¶ˆè€—ï¼š50ms
+14:21:41.650 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:41.650 [main] INFO  SWIFT - æ¶ˆè€—ï¼š52ms
+14:21:41.704 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:41.704 [main] INFO  SWIFT - æ¶ˆè€—ï¼š53ms
+14:21:41.758 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:41.758 [main] INFO  SWIFT - æ¶ˆè€—ï¼š54ms
+14:21:41.808 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:41.808 [main] INFO  SWIFT - æ¶ˆè€—ï¼š50ms
+14:21:41.857 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:41.858 [main] INFO  SWIFT - æ¶ˆè€—ï¼š50ms
+14:21:41.917 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:41.917 [main] INFO  SWIFT - æ¶ˆè€—ï¼š59ms
+14:21:41.970 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:41.971 [main] INFO  SWIFT - æ¶ˆè€—ï¼š53ms
+14:21:42.024 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:42.024 [main] INFO  SWIFT - æ¶ˆè€—ï¼š53ms
+14:21:42.077 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:42.077 [main] INFO  SWIFT - æ¶ˆè€—ï¼š53ms
+14:21:42.132 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:42.132 [main] INFO  SWIFT - æ¶ˆè€—ï¼š55ms
+14:21:42.189 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:42.189 [main] INFO  SWIFT - æ¶ˆè€—ï¼š57ms
+14:21:42.245 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:42.245 [main] INFO  SWIFT - æ¶ˆè€—ï¼š56ms
+14:21:42.296 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:42.296 [main] INFO  SWIFT - æ¶ˆè€—ï¼š50ms
+14:21:42.348 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:42.349 [main] INFO  SWIFT - æ¶ˆè€—ï¼š53ms
+14:21:42.396 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:42.397 [main] INFO  SWIFT - æ¶ˆè€—ï¼š48ms
+14:21:42.451 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:42.452 [main] INFO  SWIFT - æ¶ˆè€—ï¼š55ms
+14:21:42.517 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:42.517 [main] INFO  SWIFT - æ¶ˆè€—ï¼š65ms
+14:21:42.568 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:42.568 [main] INFO  SWIFT - æ¶ˆè€—ï¼š51ms
+14:21:42.625 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:42.625 [main] INFO  SWIFT - æ¶ˆè€—ï¼š57ms
+14:21:42.675 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:42.675 [main] INFO  SWIFT - æ¶ˆè€—ï¼š50ms
+14:21:42.727 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:42.727 [main] INFO  SWIFT - æ¶ˆè€—ï¼š52ms
+14:21:42.776 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:42.776 [main] INFO  SWIFT - æ¶ˆè€—ï¼š49ms
+14:21:42.834 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:42.834 [main] INFO  SWIFT - æ¶ˆè€—ï¼š58ms
+14:21:42.883 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:42.883 [main] INFO  SWIFT - æ¶ˆè€—ï¼š49ms
+14:21:42.938 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:42.939 [main] INFO  SWIFT - æ¶ˆè€—ï¼š56ms
+14:21:42.996 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:42.996 [main] INFO  SWIFT - æ¶ˆè€—ï¼š57ms
+14:21:43.044 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:43.044 [main] INFO  SWIFT - æ¶ˆè€—ï¼š48ms
+14:21:43.094 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:43.095 [main] INFO  SWIFT - æ¶ˆè€—ï¼š51ms
+14:21:43.151 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:43.152 [main] INFO  SWIFT - æ¶ˆè€—ï¼š57ms
+14:21:43.204 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:43.204 [main] INFO  SWIFT - æ¶ˆè€—ï¼š52ms
+14:21:43.255 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:43.255 [main] INFO  SWIFT - æ¶ˆè€—ï¼š51ms
+14:21:43.313 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:43.313 [main] INFO  SWIFT - æ¶ˆè€—ï¼š58ms
+14:21:43.366 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:43.366 [main] INFO  SWIFT - æ¶ˆè€—ï¼š53ms
+14:21:43.417 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:43.417 [main] INFO  SWIFT - æ¶ˆè€—ï¼š51ms
+14:21:43.468 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:43.468 [main] INFO  SWIFT - æ¶ˆè€—ï¼š51ms
+14:21:43.517 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:43.518 [main] INFO  SWIFT - æ¶ˆè€—ï¼š50ms
+14:21:43.572 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:43.573 [main] INFO  SWIFT - æ¶ˆè€—ï¼š55ms
+14:21:43.626 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:43.626 [main] INFO  SWIFT - æ¶ˆè€—ï¼š53ms
+14:21:43.675 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:43.675 [main] INFO  SWIFT - æ¶ˆè€—ï¼š48ms
+14:21:43.731 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:43.731 [main] INFO  SWIFT - æ¶ˆè€—ï¼š56ms
+14:21:43.787 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:43.787 [main] INFO  SWIFT - æ¶ˆè€—ï¼š56ms
+14:21:43.845 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:43.845 [main] INFO  SWIFT - æ¶ˆè€—ï¼š58ms
+14:21:43.899 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:43.899 [main] INFO  SWIFT - æ¶ˆè€—ï¼š54ms
+14:21:43.947 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:43.948 [main] INFO  SWIFT - æ¶ˆè€—ï¼š49ms
+14:21:44.005 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:44.005 [main] INFO  SWIFT - æ¶ˆè€—ï¼š57ms
+14:21:44.054 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:44.055 [main] INFO  SWIFT - æ¶ˆè€—ï¼š50ms
+14:21:44.107 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:44.107 [main] INFO  SWIFT - æ¶ˆè€—ï¼š52ms
+14:21:44.168 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:44.168 [main] INFO  SWIFT - æ¶ˆè€—ï¼š61ms
+14:21:44.225 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:44.226 [main] INFO  SWIFT - æ¶ˆè€—ï¼š58ms
+14:21:44.281 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:44.281 [main] INFO  SWIFT - æ¶ˆè€—ï¼š55ms
+14:21:44.330 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:44.330 [main] INFO  SWIFT - æ¶ˆè€—ï¼š49ms
+14:21:44.382 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:44.382 [main] INFO  SWIFT - æ¶ˆè€—ï¼š52ms
+14:21:44.436 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:44.436 [main] INFO  SWIFT - æ¶ˆè€—ï¼š54ms
+14:21:44.489 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:44.489 [main] INFO  SWIFT - æ¶ˆè€—ï¼š52ms
+14:21:44.540 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:44.540 [main] INFO  SWIFT - æ¶ˆè€—ï¼š51ms
+14:21:44.591 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:44.591 [main] INFO  SWIFT - æ¶ˆè€—ï¼š51ms
+14:21:44.643 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:44.643 [main] INFO  SWIFT - æ¶ˆè€—ï¼š52ms
+14:21:44.694 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:44.694 [main] INFO  SWIFT - æ¶ˆè€—ï¼š51ms
+14:21:44.748 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:44.748 [main] INFO  SWIFT - æ¶ˆè€—ï¼š54ms
+14:21:44.799 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:44.799 [main] INFO  SWIFT - æ¶ˆè€—ï¼š51ms
+14:21:44.848 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:44.848 [main] INFO  SWIFT - æ¶ˆè€—ï¼š49ms
+14:21:44.902 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:44.903 [main] INFO  SWIFT - æ¶ˆè€—ï¼š55ms
+14:21:44.977 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:44.977 [main] INFO  SWIFT - æ¶ˆè€—ï¼š74ms
+14:21:45.041 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:45.041 [main] INFO  SWIFT - æ¶ˆè€—ï¼š64ms
+14:21:45.116 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:45.116 [main] INFO  SWIFT - æ¶ˆè€—ï¼š74ms
+14:21:45.190 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:45.190 [main] INFO  SWIFT - æ¶ˆè€—ï¼š74ms
+14:21:45.264 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:45.265 [main] INFO  SWIFT - æ¶ˆè€—ï¼š75ms
+14:21:45.330 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:45.330 [main] INFO  SWIFT - æ¶ˆè€—ï¼š65ms
+14:21:45.387 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:45.388 [main] INFO  SWIFT - æ¶ˆè€—ï¼š58ms
+14:21:45.434 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:45.435 [main] INFO  SWIFT - æ¶ˆè€—ï¼š47ms
+14:21:45.486 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:45.486 [main] INFO  SWIFT - æ¶ˆè€—ï¼š51ms
+14:21:45.537 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:45.538 [main] INFO  SWIFT - æ¶ˆè€—ï¼š52ms
+14:21:45.595 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:45.595 [main] INFO  SWIFT - æ¶ˆè€—ï¼š57ms
+14:21:45.642 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:45.642 [main] INFO  SWIFT - æ¶ˆè€—ï¼š47ms
+14:21:45.691 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:45.691 [main] INFO  SWIFT - æ¶ˆè€—ï¼š49ms
+14:21:45.741 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:45.741 [main] INFO  SWIFT - æ¶ˆè€—ï¼š50ms
+14:21:45.791 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:45.791 [main] INFO  SWIFT - æ¶ˆè€—ï¼š50ms
+14:21:45.852 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:45.852 [main] INFO  SWIFT - æ¶ˆè€—ï¼š61ms
+14:21:45.909 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:45.910 [main] INFO  SWIFT - æ¶ˆè€—ï¼š58ms
+14:21:45.965 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:45.966 [main] INFO  SWIFT - æ¶ˆè€—ï¼š56ms
+14:21:46.025 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:46.025 [main] INFO  SWIFT - æ¶ˆè€—ï¼š59ms
+14:21:46.078 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:46.078 [main] INFO  SWIFT - æ¶ˆè€—ï¼š53ms
+14:21:46.136 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:46.136 [main] INFO  SWIFT - æ¶ˆè€—ï¼š58ms
+14:21:46.191 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:46.191 [main] INFO  SWIFT - æ¶ˆè€—ï¼š55ms
+14:21:46.244 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:46.245 [main] INFO  SWIFT - æ¶ˆè€—ï¼š54ms
+14:21:46.298 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:46.298 [main] INFO  SWIFT - æ¶ˆè€—ï¼š53ms
+14:21:46.348 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:46.348 [main] INFO  SWIFT - æ¶ˆè€—ï¼š50ms
+14:21:46.406 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:46.406 [main] INFO  SWIFT - æ¶ˆè€—ï¼š58ms
+14:21:46.457 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:46.458 [main] INFO  SWIFT - æ¶ˆè€—ï¼š51ms
+14:21:46.524 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:46.524 [main] INFO  SWIFT - æ¶ˆè€—ï¼š66ms
+14:21:46.575 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:46.576 [main] INFO  SWIFT - æ¶ˆè€—ï¼š52ms
+14:21:46.627 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:46.627 [main] INFO  SWIFT - æ¶ˆè€—ï¼š51ms
+14:21:46.681 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:46.682 [main] INFO  SWIFT - æ¶ˆè€—ï¼š55ms
+14:21:46.730 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:46.730 [main] INFO  SWIFT - æ¶ˆè€—ï¼š48ms
+14:21:46.779 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:46.779 [main] INFO  SWIFT - æ¶ˆè€—ï¼š49ms
+14:21:46.833 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:46.833 [main] INFO  SWIFT - æ¶ˆè€—ï¼š54ms
+14:21:46.885 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:46.885 [main] INFO  SWIFT - æ¶ˆè€—ï¼š52ms
+14:21:46.935 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:46.935 [main] INFO  SWIFT - æ¶ˆè€—ï¼š50ms
+14:21:46.985 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:46.986 [main] INFO  SWIFT - æ¶ˆè€—ï¼š51ms
+14:21:47.033 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:47.034 [main] INFO  SWIFT - æ¶ˆè€—ï¼š48ms
+14:21:47.080 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:47.080 [main] INFO  SWIFT - æ¶ˆè€—ï¼š46ms
+14:21:47.132 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:47.132 [main] INFO  SWIFT - æ¶ˆè€—ï¼š52ms
+14:21:47.190 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:47.190 [main] INFO  SWIFT - æ¶ˆè€—ï¼š58ms
+14:21:47.240 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:47.240 [main] INFO  SWIFT - æ¶ˆè€—ï¼š49ms
+14:21:47.290 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:47.290 [main] INFO  SWIFT - æ¶ˆè€—ï¼š50ms
+14:21:47.346 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:47.346 [main] INFO  SWIFT - æ¶ˆè€—ï¼š56ms
+14:21:47.396 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:47.396 [main] INFO  SWIFT - æ¶ˆè€—ï¼š50ms
+14:21:47.444 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:47.444 [main] INFO  SWIFT - æ¶ˆè€—ï¼š48ms
+14:21:47.499 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:47.499 [main] INFO  SWIFT - æ¶ˆè€—ï¼š55ms
+14:21:47.547 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:47.547 [main] INFO  SWIFT - æ¶ˆè€—ï¼š48ms
+14:21:47.602 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:47.603 [main] INFO  SWIFT - æ¶ˆè€—ï¼š56ms
+14:21:47.663 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:47.663 [main] INFO  SWIFT - æ¶ˆè€—ï¼š60ms
+14:21:47.711 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:47.711 [main] INFO  SWIFT - æ¶ˆè€—ï¼š48ms
+14:21:47.761 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:47.761 [main] INFO  SWIFT - æ¶ˆè€—ï¼š50ms
+14:21:47.812 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:47.812 [main] INFO  SWIFT - æ¶ˆè€—ï¼š51ms
+14:21:47.859 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:47.860 [main] INFO  SWIFT - æ¶ˆè€—ï¼š47ms
+14:21:47.914 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:47.914 [main] INFO  SWIFT - æ¶ˆè€—ï¼š54ms
+14:21:47.978 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:47.978 [main] INFO  SWIFT - æ¶ˆè€—ï¼š64ms
+14:21:48.035 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:21:48.035 [main] INFO  SWIFT - æ¶ˆè€—ï¼š57ms
+14:21:48.090 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:21:48.091 [main] INFO  SWIFT - æ¶ˆè€—ï¼š56ms
+14:57:49.055 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataDao.get(String).hello]
+14:57:54.181 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:54.354 [main] INFO  SWIFT - ÏûºÄ£º175ms
+14:57:54.360 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:54.474 [main] INFO  SWIFT - ÏûºÄ£º115ms
+14:57:54.544 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:54.545 [main] INFO  SWIFT - ÏûºÄ£º67ms
+14:57:54.675 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:54.675 [main] INFO  SWIFT - ÏûºÄ£º130ms
+14:57:54.733 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:54.733 [main] INFO  SWIFT - ÏûºÄ£º58ms
+14:57:54.811 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:54.811 [main] INFO  SWIFT - ÏûºÄ£º77ms
+14:57:54.893 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:54.893 [main] INFO  SWIFT - ÏûºÄ£º82ms
+14:57:54.947 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:54.948 [main] INFO  SWIFT - ÏûºÄ£º55ms
+14:57:55.001 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:55.001 [main] INFO  SWIFT - ÏûºÄ£º53ms
+14:57:55.053 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:55.054 [main] INFO  SWIFT - ÏûºÄ£º51ms
+14:57:55.105 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:55.106 [main] INFO  SWIFT - ÏûºÄ£º52ms
+14:57:55.166 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:55.166 [main] INFO  SWIFT - ÏûºÄ£º60ms
+14:57:55.221 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:55.221 [main] INFO  SWIFT - ÏûºÄ£º54ms
+14:57:55.280 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:55.280 [main] INFO  SWIFT - ÏûºÄ£º59ms
+14:57:55.333 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:55.333 [main] INFO  SWIFT - ÏûºÄ£º53ms
+14:57:55.390 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:55.390 [main] INFO  SWIFT - ÏûºÄ£º56ms
+14:57:55.439 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:55.439 [main] INFO  SWIFT - ÏûºÄ£º49ms
+14:57:55.510 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:55.510 [main] INFO  SWIFT - ÏûºÄ£º70ms
+14:57:55.564 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:55.565 [main] INFO  SWIFT - ÏûºÄ£º55ms
+14:57:55.624 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:55.625 [main] INFO  SWIFT - ÏûºÄ£º60ms
+14:57:55.680 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:55.680 [main] INFO  SWIFT - ÏûºÄ£º55ms
+14:57:55.732 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:55.732 [main] INFO  SWIFT - ÏûºÄ£º52ms
+14:57:55.786 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:55.786 [main] INFO  SWIFT - ÏûºÄ£º54ms
+14:57:55.839 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:55.840 [main] INFO  SWIFT - ÏûºÄ£º53ms
+14:57:55.894 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:55.894 [main] INFO  SWIFT - ÏûºÄ£º54ms
+14:57:55.952 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:55.953 [main] INFO  SWIFT - ÏûºÄ£º58ms
+14:57:56.004 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:56.005 [main] INFO  SWIFT - ÏûºÄ£º52ms
+14:57:56.057 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:56.057 [main] INFO  SWIFT - ÏûºÄ£º52ms
+14:57:56.112 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:56.112 [main] INFO  SWIFT - ÏûºÄ£º54ms
+14:57:56.182 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:56.183 [main] INFO  SWIFT - ÏûºÄ£º71ms
+14:57:56.254 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:56.254 [main] INFO  SWIFT - ÏûºÄ£º71ms
+14:57:56.317 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:56.318 [main] INFO  SWIFT - ÏûºÄ£º64ms
+14:57:56.379 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:56.379 [main] INFO  SWIFT - ÏûºÄ£º61ms
+14:57:56.432 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:56.432 [main] INFO  SWIFT - ÏûºÄ£º53ms
+14:57:56.501 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:56.502 [main] INFO  SWIFT - ÏûºÄ£º70ms
+14:57:56.554 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:56.554 [main] INFO  SWIFT - ÏûºÄ£º52ms
+14:57:56.608 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:56.608 [main] INFO  SWIFT - ÏûºÄ£º53ms
+14:57:56.663 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:56.663 [main] INFO  SWIFT - ÏûºÄ£º55ms
+14:57:56.714 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:56.714 [main] INFO  SWIFT - ÏûºÄ£º51ms
+14:57:56.775 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:56.775 [main] INFO  SWIFT - ÏûºÄ£º61ms
+14:57:56.832 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:56.832 [main] INFO  SWIFT - ÏûºÄ£º57ms
+14:57:56.881 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:56.881 [main] INFO  SWIFT - ÏûºÄ£º49ms
+14:57:56.942 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:56.942 [main] INFO  SWIFT - ÏûºÄ£º61ms
+14:57:57.011 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:57.011 [main] INFO  SWIFT - ÏûºÄ£º69ms
+14:57:57.084 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:57.084 [main] INFO  SWIFT - ÏûºÄ£º73ms
+14:57:57.158 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:57.158 [main] INFO  SWIFT - ÏûºÄ£º73ms
+14:57:57.219 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:57.219 [main] INFO  SWIFT - ÏûºÄ£º60ms
+14:57:57.283 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:57.284 [main] INFO  SWIFT - ÏûºÄ£º65ms
+14:57:57.355 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:57.356 [main] INFO  SWIFT - ÏûºÄ£º72ms
+14:57:57.408 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:57.409 [main] INFO  SWIFT - ÏûºÄ£º53ms
+14:57:57.470 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:57.470 [main] INFO  SWIFT - ÏûºÄ£º61ms
+14:57:57.521 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:57.521 [main] INFO  SWIFT - ÏûºÄ£º51ms
+14:57:57.580 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:57.581 [main] INFO  SWIFT - ÏûºÄ£º60ms
+14:57:57.632 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:57.633 [main] INFO  SWIFT - ÏûºÄ£º52ms
+14:57:57.690 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:57.690 [main] INFO  SWIFT - ÏûºÄ£º57ms
+14:57:57.739 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:57.739 [main] INFO  SWIFT - ÏûºÄ£º49ms
+14:57:57.790 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:57.791 [main] INFO  SWIFT - ÏûºÄ£º52ms
+14:57:57.840 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:57.840 [main] INFO  SWIFT - ÏûºÄ£º49ms
+14:57:57.891 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:57.891 [main] INFO  SWIFT - ÏûºÄ£º51ms
+14:57:57.948 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:57.948 [main] INFO  SWIFT - ÏûºÄ£º56ms
+14:57:58.002 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:58.002 [main] INFO  SWIFT - ÏûºÄ£º53ms
+14:57:58.056 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:58.056 [main] INFO  SWIFT - ÏûºÄ£º54ms
+14:57:58.120 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:58.121 [main] INFO  SWIFT - ÏûºÄ£º65ms
+14:57:58.175 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:58.176 [main] INFO  SWIFT - ÏûºÄ£º55ms
+14:57:58.225 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:58.226 [main] INFO  SWIFT - ÏûºÄ£º50ms
+14:57:58.274 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:58.274 [main] INFO  SWIFT - ÏûºÄ£º48ms
+14:57:58.329 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:58.329 [main] INFO  SWIFT - ÏûºÄ£º55ms
+14:57:58.378 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:58.378 [main] INFO  SWIFT - ÏûºÄ£º49ms
+14:57:58.430 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:58.431 [main] INFO  SWIFT - ÏûºÄ£º53ms
+14:57:58.483 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:58.484 [main] INFO  SWIFT - ÏûºÄ£º53ms
+14:57:58.540 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:58.540 [main] INFO  SWIFT - ÏûºÄ£º56ms
+14:57:58.591 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:58.591 [main] INFO  SWIFT - ÏûºÄ£º51ms
+14:57:58.639 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:58.640 [main] INFO  SWIFT - ÏûºÄ£º49ms
+14:57:58.705 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:58.705 [main] INFO  SWIFT - ÏûºÄ£º65ms
+14:57:58.762 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:58.762 [main] INFO  SWIFT - ÏûºÄ£º56ms
+14:57:58.818 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:58.819 [main] INFO  SWIFT - ÏûºÄ£º56ms
+14:57:58.866 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:58.867 [main] INFO  SWIFT - ÏûºÄ£º48ms
+14:57:58.914 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:58.914 [main] INFO  SWIFT - ÏûºÄ£º47ms
+14:57:58.964 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:58.965 [main] INFO  SWIFT - ÏûºÄ£º51ms
+14:57:59.024 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:59.025 [main] INFO  SWIFT - ÏûºÄ£º60ms
+14:57:59.072 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:59.072 [main] INFO  SWIFT - ÏûºÄ£º47ms
+14:57:59.126 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:59.126 [main] INFO  SWIFT - ÏûºÄ£º54ms
+14:57:59.179 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:59.179 [main] INFO  SWIFT - ÏûºÄ£º53ms
+14:57:59.233 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:59.233 [main] INFO  SWIFT - ÏûºÄ£º54ms
+14:57:59.301 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:59.301 [main] INFO  SWIFT - ÏûºÄ£º68ms
+14:57:59.368 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:59.368 [main] INFO  SWIFT - ÏûºÄ£º66ms
+14:57:59.432 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:59.432 [main] INFO  SWIFT - ÏûºÄ£º64ms
+14:57:59.482 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:59.483 [main] INFO  SWIFT - ÏûºÄ£º51ms
+14:57:59.533 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:59.533 [main] INFO  SWIFT - ÏûºÄ£º50ms
+14:57:59.588 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:59.589 [main] INFO  SWIFT - ÏûºÄ£º56ms
+14:57:59.641 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:59.641 [main] INFO  SWIFT - ÏûºÄ£º52ms
+14:57:59.692 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:59.692 [main] INFO  SWIFT - ÏûºÄ£º51ms
+14:57:59.746 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:59.746 [main] INFO  SWIFT - ÏûºÄ£º54ms
+14:57:59.802 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:59.802 [main] INFO  SWIFT - ÏûºÄ£º56ms
+14:57:59.855 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:59.855 [main] INFO  SWIFT - ÏûºÄ£º53ms
+14:57:59.905 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:57:59.905 [main] INFO  SWIFT - ÏûºÄ£º50ms
+14:57:59.955 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:57:59.955 [main] INFO  SWIFT - ÏûºÄ£º50ms
+14:58:00.014 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:00.014 [main] INFO  SWIFT - ÏûºÄ£º59ms
+14:58:00.078 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:00.078 [main] INFO  SWIFT - ÏûºÄ£º64ms
+14:58:00.132 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:00.132 [main] INFO  SWIFT - ÏûºÄ£º54ms
+14:58:00.182 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:00.183 [main] INFO  SWIFT - ÏûºÄ£º51ms
+14:58:00.241 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:00.241 [main] INFO  SWIFT - ÏûºÄ£º58ms
+14:58:00.295 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:00.296 [main] INFO  SWIFT - ÏûºÄ£º55ms
+14:58:00.349 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:00.349 [main] INFO  SWIFT - ÏûºÄ£º53ms
+14:58:00.402 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:00.402 [main] INFO  SWIFT - ÏûºÄ£º53ms
+14:58:00.454 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:00.454 [main] INFO  SWIFT - ÏûºÄ£º52ms
+14:58:00.505 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:00.505 [main] INFO  SWIFT - ÏûºÄ£º51ms
+14:58:00.556 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:00.556 [main] INFO  SWIFT - ÏûºÄ£º51ms
+14:58:00.610 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:00.610 [main] INFO  SWIFT - ÏûºÄ£º54ms
+14:58:00.671 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:00.672 [main] INFO  SWIFT - ÏûºÄ£º62ms
+14:58:00.723 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:00.723 [main] INFO  SWIFT - ÏûºÄ£º51ms
+14:58:00.777 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:00.778 [main] INFO  SWIFT - ÏûºÄ£º55ms
+14:58:00.829 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:00.829 [main] INFO  SWIFT - ÏûºÄ£º51ms
+14:58:00.878 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:00.879 [main] INFO  SWIFT - ÏûºÄ£º50ms
+14:58:00.934 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:00.935 [main] INFO  SWIFT - ÏûºÄ£º56ms
+14:58:00.989 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:00.989 [main] INFO  SWIFT - ÏûºÄ£º54ms
+14:58:01.046 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:01.047 [main] INFO  SWIFT - ÏûºÄ£º58ms
+14:58:01.098 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:01.098 [main] INFO  SWIFT - ÏûºÄ£º51ms
+14:58:01.151 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:01.151 [main] INFO  SWIFT - ÏûºÄ£º53ms
+14:58:01.205 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:01.205 [main] INFO  SWIFT - ÏûºÄ£º53ms
+14:58:01.259 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:01.259 [main] INFO  SWIFT - ÏûºÄ£º54ms
+14:58:01.314 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:01.314 [main] INFO  SWIFT - ÏûºÄ£º55ms
+14:58:01.382 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:01.382 [main] INFO  SWIFT - ÏûºÄ£º68ms
+14:58:01.464 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:01.465 [main] INFO  SWIFT - ÏûºÄ£º83ms
+14:58:01.519 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:01.519 [main] INFO  SWIFT - ÏûºÄ£º54ms
+14:58:01.576 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:01.576 [main] INFO  SWIFT - ÏûºÄ£º57ms
+14:58:01.631 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:01.632 [main] INFO  SWIFT - ÏûºÄ£º56ms
+14:58:01.688 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:01.688 [main] INFO  SWIFT - ÏûºÄ£º56ms
+14:58:01.740 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:01.741 [main] INFO  SWIFT - ÏûºÄ£º53ms
+14:58:01.791 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:01.791 [main] INFO  SWIFT - ÏûºÄ£º50ms
+14:58:01.840 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:01.840 [main] INFO  SWIFT - ÏûºÄ£º49ms
+14:58:01.889 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:01.889 [main] INFO  SWIFT - ÏûºÄ£º49ms
+14:58:01.941 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:01.941 [main] INFO  SWIFT - ÏûºÄ£º52ms
+14:58:01.988 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:01.988 [main] INFO  SWIFT - ÏûºÄ£º47ms
+14:58:02.048 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:02.048 [main] INFO  SWIFT - ÏûºÄ£º60ms
+14:58:02.109 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:02.109 [main] INFO  SWIFT - ÏûºÄ£º61ms
+14:58:02.161 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:02.162 [main] INFO  SWIFT - ÏûºÄ£º53ms
+14:58:02.222 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:02.223 [main] INFO  SWIFT - ÏûºÄ£º61ms
+14:58:02.273 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:02.273 [main] INFO  SWIFT - ÏûºÄ£º50ms
+14:58:02.323 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:02.323 [main] INFO  SWIFT - ÏûºÄ£º50ms
+14:58:02.371 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:02.371 [main] INFO  SWIFT - ÏûºÄ£º48ms
+14:58:02.419 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:02.420 [main] INFO  SWIFT - ÏûºÄ£º49ms
+14:58:02.468 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:02.468 [main] INFO  SWIFT - ÏûºÄ£º48ms
+14:58:02.515 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:02.515 [main] INFO  SWIFT - ÏûºÄ£º47ms
+14:58:02.580 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:02.580 [main] INFO  SWIFT - ÏûºÄ£º65ms
+14:58:02.628 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:02.628 [main] INFO  SWIFT - ÏûºÄ£º48ms
+14:58:02.689 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:02.689 [main] INFO  SWIFT - ÏûºÄ£º60ms
+14:58:02.744 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:02.745 [main] INFO  SWIFT - ÏûºÄ£º56ms
+14:58:02.797 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:02.797 [main] INFO  SWIFT - ÏûºÄ£º52ms
+14:58:02.852 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:02.853 [main] INFO  SWIFT - ÏûºÄ£º56ms
+14:58:02.900 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:02.901 [main] INFO  SWIFT - ÏûºÄ£º48ms
+14:58:02.966 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:02.966 [main] INFO  SWIFT - ÏûºÄ£º65ms
+14:58:03.025 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:03.026 [main] INFO  SWIFT - ÏûºÄ£º60ms
+14:58:03.083 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:03.084 [main] INFO  SWIFT - ÏûºÄ£º58ms
+14:58:03.146 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:03.146 [main] INFO  SWIFT - ÏûºÄ£º62ms
+14:58:03.220 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:03.220 [main] INFO  SWIFT - ÏûºÄ£º74ms
+14:58:03.279 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:03.280 [main] INFO  SWIFT - ÏûºÄ£º60ms
+14:58:03.341 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:03.342 [main] INFO  SWIFT - ÏûºÄ£º62ms
+14:58:03.390 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:03.390 [main] INFO  SWIFT - ÏûºÄ£º48ms
+14:58:03.443 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:03.444 [main] INFO  SWIFT - ÏûºÄ£º54ms
+14:58:03.497 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:03.498 [main] INFO  SWIFT - ÏûºÄ£º54ms
+14:58:03.553 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:03.554 [main] INFO  SWIFT - ÏûºÄ£º56ms
+14:58:03.613 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:03.613 [main] INFO  SWIFT - ÏûºÄ£º59ms
+14:58:03.678 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:03.678 [main] INFO  SWIFT - ÏûºÄ£º64ms
+14:58:03.729 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:03.729 [main] INFO  SWIFT - ÏûºÄ£º51ms
+14:58:03.781 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:03.782 [main] INFO  SWIFT - ÏûºÄ£º53ms
+14:58:03.834 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:03.834 [main] INFO  SWIFT - ÏûºÄ£º52ms
+14:58:03.891 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:03.891 [main] INFO  SWIFT - ÏûºÄ£º57ms
+14:58:03.944 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:03.944 [main] INFO  SWIFT - ÏûºÄ£º53ms
+14:58:03.994 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:03.994 [main] INFO  SWIFT - ÏûºÄ£º50ms
+14:58:04.058 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:04.058 [main] INFO  SWIFT - ÏûºÄ£º64ms
+14:58:04.143 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:04.144 [main] INFO  SWIFT - ÏûºÄ£º86ms
+14:58:04.198 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:04.198 [main] INFO  SWIFT - ÏûºÄ£º54ms
+14:58:04.253 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:04.253 [main] INFO  SWIFT - ÏûºÄ£º55ms
+14:58:04.301 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:04.301 [main] INFO  SWIFT - ÏûºÄ£º48ms
+14:58:04.350 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:04.350 [main] INFO  SWIFT - ÏûºÄ£º49ms
+14:58:04.397 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:04.397 [main] INFO  SWIFT - ÏûºÄ£º47ms
+14:58:04.454 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:04.455 [main] INFO  SWIFT - ÏûºÄ£º58ms
+14:58:04.508 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:04.509 [main] INFO  SWIFT - ÏûºÄ£º54ms
+14:58:04.564 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:04.565 [main] INFO  SWIFT - ÏûºÄ£º56ms
+14:58:04.631 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:04.632 [main] INFO  SWIFT - ÏûºÄ£º67ms
+14:58:04.681 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:04.681 [main] INFO  SWIFT - ÏûºÄ£º49ms
+14:58:04.734 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:04.734 [main] INFO  SWIFT - ÏûºÄ£º53ms
+14:58:04.791 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:04.791 [main] INFO  SWIFT - ÏûºÄ£º57ms
+14:58:04.854 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:04.854 [main] INFO  SWIFT - ÏûºÄ£º63ms
+14:58:04.904 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:04.905 [main] INFO  SWIFT - ÏûºÄ£º51ms
+14:58:04.964 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:04.965 [main] INFO  SWIFT - ÏûºÄ£º60ms
+14:58:05.027 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:05.027 [main] INFO  SWIFT - ÏûºÄ£º62ms
+14:58:05.086 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:05.086 [main] INFO  SWIFT - ÏûºÄ£º59ms
+14:58:05.159 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:05.159 [main] INFO  SWIFT - ÏûºÄ£º73ms
+14:58:05.206 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:05.206 [main] INFO  SWIFT - ÏûºÄ£º46ms
+14:58:05.271 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:05.272 [main] INFO  SWIFT - ÏûºÄ£º66ms
+14:58:05.350 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:05.350 [main] INFO  SWIFT - ÏûºÄ£º78ms
+14:58:05.427 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:05.428 [main] INFO  SWIFT - ÏûºÄ£º76ms
+14:58:05.478 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:05.478 [main] INFO  SWIFT - ÏûºÄ£º50ms
+14:58:05.539 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:05.540 [main] INFO  SWIFT - ÏûºÄ£º61ms
+14:58:05.595 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:05.596 [main] INFO  SWIFT - ÏûºÄ£º56ms
+14:58:05.650 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:05.650 [main] INFO  SWIFT - ÏûºÄ£º54ms
+14:58:05.708 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:05.708 [main] INFO  SWIFT - ÏûºÄ£º58ms
+14:58:05.761 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:05.761 [main] INFO  SWIFT - ÏûºÄ£º53ms
+14:58:05.810 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+14:58:05.810 [main] INFO  SWIFT - ÏûºÄ£º49ms
+14:58:05.866 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+14:58:05.866 [main] INFO  SWIFT - ÏûºÄ£º56ms
+17:54:08.520 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataDao.get(String).hello]
+17:54:21.409 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.get(String).hello]
+17:54:51.210 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+17:54:51.439 [main] INFO  SWIFT - æ¶ˆè€—ï¼š320ms
+17:55:18.325 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+17:55:18.326 [main] INFO  SWIFT - æ¶ˆè€—ï¼š428ms
+17:55:29.104 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+17:55:29.104 [main] INFO  SWIFT - æ¶ˆè€—ï¼š469ms
+17:55:50.469 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+17:55:50.721 [main] INFO  SWIFT - æ¶ˆè€—ï¼š296ms
+17:56:06.539 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+17:56:06.540 [main] INFO  SWIFT - æ¶ˆè€—ï¼š492ms
+17:56:45.628 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataDao.get(String).hello]
+17:56:50.671 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+17:56:50.845 [main] INFO  SWIFT - ÏûºÄ£º187ms
+17:56:50.854 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+17:56:50.966 [main] INFO  SWIFT - ÏûºÄ£º116ms
+17:57:24.797 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.get(String).hello]
+17:57:25.260 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+17:57:25.261 [main] INFO  SWIFT - ÏûºÄ£º455ms
+17:57:25.490 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+17:57:25.491 [main] INFO  SWIFT - ÏûºÄ£º225ms
+18:00:10.081 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataDao.get(String).hello]
+18:00:15.295 [main] INFO  SWIFT - Cache Hit! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+18:00:15.295 [main] INFO  SWIFT - ÏûºÄ£º163ms
+18:00:15.300 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+18:00:15.450 [main] INFO  SWIFT - ÏûºÄ£º151ms
+11:07:07.695 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataDao.get(String).hello]
+11:07:12.735 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+11:07:12.973 [main] INFO  SWIFT - ÏûºÄ£º245ms
+11:07:12.976 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+11:07:13.104 [main] INFO  SWIFT - ÏûºÄ£º128ms
+11:15:07.140 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataDao.get(String).hello]
+11:15:12.234 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+11:15:12.427 [main] INFO  SWIFT - ÏûºÄ£º196ms
+11:15:12.431 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+11:15:12.527 [main] INFO  SWIFT - ÏûºÄ£º96ms
+11:18:48.862 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataDao.get(String).hello]
+11:18:53.887 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+11:18:54.066 [main] INFO  SWIFT - ÏûºÄ£º180ms
+11:18:54.070 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+11:18:54.164 [main] INFO  SWIFT - ÏûºÄ£º95ms
+11:47:40.051 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataDao.get(String).hello]
+11:47:45.094 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+11:47:45.265 [main] INFO  SWIFT - ÏûºÄ£º178ms
+11:47:45.269 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+11:47:45.389 [main] INFO  SWIFT - ÏûºÄ£º121ms
+11:54:50.133 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataDao.get(String).hello]
+11:54:55.156 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+11:54:55.357 [main] INFO  SWIFT - ÏûºÄ£º202ms
+11:54:55.360 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+11:54:55.466 [main] INFO  SWIFT - ÏûºÄ£º107ms
+13:47:40.078 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataDao.get(String).hello]
+13:47:45.103 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataDao.getBigData(int,int).2000,2000]
+13:47:45.332 [main] INFO  SWIFT - ÏûºÄ£º231ms
+13:47:45.337 [main] INFO  SWIFT - Cache Miss! key [cache.data.DataService.getBigDataCache(int,int).2000,2000]
+13:47:45.452 [main] INFO  SWIFT - ÏûºÄ£º116ms
